@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+       <!-- <item name="android:actionBarStyle">@style/ActionBar</item> -->
+    </style>
+
+    <style name="ActionBar" parent="android:Theme.Material">
+        <item name="android:background">#FF0000</item>
+    </style>
+
+</resources>
